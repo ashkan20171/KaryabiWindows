@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KaryabiDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_CatWork">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="WorkName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_Customers">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Family" Type="nvarchar" MaxLength="50" />
+    <Property Name="Birth" Type="nvarchar" MaxLength="50" />
+    <Property Name="CodeMelli" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tell" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="WorkName" Type="nvarchar" MaxLength="50" />
+    <Property Name="MaritalStatus" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" />
+    <Property Name="Image" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="State" Type="bit" />
+    <Property Name="FlagAdmin" Type="bit" />
+    <Property Name="OfficerValid" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tbl_JobCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="JobName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tedad" Type="int" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="tbl_Manager">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Family" Type="nvarchar" MaxLength="50" />
+    <Property Name="Login" Type="bit" />
+  </EntityType>
+  <EntityType Name="tbl_Notify">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OfficerId" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Validation" Type="bit" />
+  </EntityType>
+  <EntityType Name="tbl_NotifyFromAdmin">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OfficerId" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="tbl_Officers">
+    <Key>
+      <PropertyRef Name="OfficerId" />
+    </Key>
+    <Property Name="OfficerId" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Lname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Birth" Type="nvarchar" MaxLength="50" />
+    <Property Name="TheWork" Type="nvarchar" MaxLength="50" />
+    <Property Name="CodeMelli" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tell" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="DateInCompany" Type="nvarchar" MaxLength="50" />
+    <Property Name="Madrak" Type="nvarchar" MaxLength="70" />
+    <Property Name="Image" Type="image" />
+    <Property Name="Address" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="tbl_Users">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="70" />
+    <Property Name="Flag" Type="bit" />
+    <Property Name="Permission" Type="int" />
+  </EntityType>
+  <EntityContainer Name="KaryabiDBModelStoreContainer">
+    <EntitySet Name="tbl_CatWork" EntityType="Self.tbl_CatWork" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Customers" EntityType="Self.tbl_Customers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_JobCategory" EntityType="Self.tbl_JobCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Manager" EntityType="Self.tbl_Manager" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Notify" EntityType="Self.tbl_Notify" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_NotifyFromAdmin" EntityType="Self.tbl_NotifyFromAdmin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Officers" EntityType="Self.tbl_Officers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_Users" EntityType="Self.tbl_Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

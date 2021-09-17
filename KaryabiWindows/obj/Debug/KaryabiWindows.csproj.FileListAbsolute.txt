@@ -1,0 +1,54 @@
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\KaryabiWindows.exe.config
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\KaryabiWindows.exe
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\KaryabiWindows.pdb
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\EntityFramework.dll
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\EntityFramework.xml
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_manageOfficers.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.Properties.Resources.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.csproj.GenerateResource.Cache
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.exe
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.pdb
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_MainManager.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Users.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Customers.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Login.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_CatJobKaryabi.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_SendNotifyUsers.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ManageNotify.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_MainOfficers.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.csprojResolveAssemblyReference.cache
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Notification.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ViewNotify.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Email.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_LoginEmail.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Backup.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ReportOfficers.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Manager.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_TestIp.resources
+C:\Users\Behnam-PC\Desktop\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Loading.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.csprojAssemblyReference.cache
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Backup.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_CatJobKaryabi.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Customers.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Email.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Loading.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Login.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_LoginEmail.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_MainManager.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_MainOfficers.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ManageNotify.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_manageOfficers.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Manager.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Notification.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ReportOfficers.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_SendNotifyUsers.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.Properties.Resources.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_TestIp.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_Users.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.frm_ViewNotify.resources
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.csproj.GenerateResource.cache
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.csproj.CoreCompileInputs.cache
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.exe
+D:\21.0\اموزش سیستم مدیریت کاریابی\KaryabiWindows\KaryabiWindows\obj\Debug\KaryabiWindows.pdb

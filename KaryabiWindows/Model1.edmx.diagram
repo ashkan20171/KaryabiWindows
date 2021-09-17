@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="27ef4d56726c4df69edf32d27f8e7bcd" Name="Diagram1">
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_CatWork" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_Customers" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_JobCategory" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_Manager" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_Officers" Width="1.5" PointX="1" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_Users" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_Notify" Width="1.5" PointX="3" PointY="4.875" />
+        <EntityTypeShape EntityType="KaryabiDBModel.tbl_NotifyFromAdmin" Width="1.875" PointX="4.875" PointY="6.25" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
